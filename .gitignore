@@ -1,0 +1,17 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Local Environment & Logs
+.env
+.env.local
+*.log
+
+# Future-proofing (for when you add modules or builds)
+node_modules/
+dist/
+build/

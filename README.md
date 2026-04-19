@@ -2,6 +2,9 @@
 
 **My Smart Tasks** is a sleek, glassmorphic productivity app featuring a "smart" reminder system. Built with a responsive CSS grid, it offers priority-based task tracking, real-time progress bars, and persistent data storage. It’s a lightweight tool designed to streamline workflows with pro-active notifications and a seamless light/dark mode experience.
 
+## 🚀 Live Preview
+**Check out the live application here:** [https://mysmarttasks.netlify.app/](https://mysmarttasks.netlify.app/)
+
 ## 🏗️ Data Structures & Algorithms (DSA)
 
 ### Data Structures
@@ -18,11 +21,6 @@
 - **Persistent Theme**: Automatic Light/Dark mode detection and storage.
 - **Progress Tracking**: Real-time percentage calculation of completed tasks.
 - **Glassmorphic UI**: Modern, responsive design using CSS custom properties.
-
-## 🚀 Getting Started
-1. Clone this repository.
-2. Open `index.html` in your browser.
-3. Enable notifications to allow the reminder algorithm to function.
 
 ## 📄 License
 This project is licensed under the **MIT License**. Copyright © 2026 Dainik.
